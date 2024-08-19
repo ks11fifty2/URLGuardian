@@ -1,7 +1,10 @@
 # URLGuardian Discord Bot
 
-URLGuardian is a Discord bot designed to protect your server by scanning and removing suspicious URLs posted in chat. It uses the VirusTotal API to analyze links and take action against potentially malicious content, keeping your community safe.
+**URLGuardian** is a Discord bot designed to protect your server by scanning and removing suspicious URLs posted in chat. It uses the **VirusTotal API** to analyze links and take action against potentially malicious content, keeping your community safe.
 
+Feel free to add the pre deployed bot to your server, or create your own using the codebase!
+
+### **Invite [URLGuardian](https://discord.com/oauth2/authorize?client_id=1272081904258252863) to your server** or follow the further documentation to deploy your own.
 ## Pre-requisites
 
 - **Discord Developer API Key**
