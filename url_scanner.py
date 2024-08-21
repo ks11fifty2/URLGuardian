@@ -41,7 +41,7 @@ def scan_url(url_to_scan):
         if result_response.status_code == 200:
             result_json = result_response.json()
             positives = result_json['data']['attributes']['stats']['malicious']
-
+            print("Positives: ",positives)
             return positives
         else:
             return {
